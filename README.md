@@ -1,4 +1,3 @@
-# Hospital-management-system
 # Hospital Management System
 
 ## Description
